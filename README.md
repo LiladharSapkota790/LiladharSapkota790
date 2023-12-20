@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Liladhar Sapkota</h1>
 <h3 align="center">A passionate frontend developer from Nepal. Currently living in Sydney Australia.</h3>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="liladhar-sapkota-6342b518a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/liladhar-sapkota-6342b518a?trk=profile-badge">Liladhar Sapkota</a></div>
+              
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liladharsapkota790&label=Profile%20views&color=0e75b6&style=flat" alt="liladharsapkota790" /> </p>
 
 - 🌱 I’m currently learning **React and Next.js**
