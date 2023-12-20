@@ -7,8 +7,8 @@
 
 - 👯 I’m looking to collaborate on **ECommerce Project.**
 
-<h3 align="left">Connect with me:</h3> 
-<p align="left"> <a href="https://www.linkedin.com/in/liladhar-sapkota-6342b518a/" > LinkedIn </a>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/liladhar-sapkota-6342b518a/" > LinkedIn </a> </h3> 
+<p align="left"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
