@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React and Next.js**
 
-- 👯 I’m looking to collaborate on **ECommerce Project.**
+- Currently building POS webapp.
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/liladhar-sapkota-6342b518a/" > LinkedIn </a> </h3> 
 <p align="left"> 
